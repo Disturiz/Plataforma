@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => (
   <h1>
-    Plataformade educación online soy Douglas!
+    Plataforma de educación online soy Douglas!
   </h1>
 )
 
